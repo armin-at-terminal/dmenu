@@ -1,2 +1,2 @@
-# dmenu
-DMenu is a minimal run prompt. Here's my fork!
+# My Dmenu Fork
+Dmenu is a minimal run prompt. Here's my fork!
