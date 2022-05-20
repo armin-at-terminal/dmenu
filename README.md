@@ -3,7 +3,7 @@ DMenu is a minimal run prompt. Here's my fork!
 
 Compile:  
     $ git clone https://github.com/armin-at-terminal/dmenu.git  
-    $ cd dmenu  
+    $ cd dmenu/dmenu  
     $ sudo make install  
 
 My fork adds features such as:  
